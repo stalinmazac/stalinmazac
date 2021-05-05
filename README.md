@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I´m Stalin Maza, a software developer 💻 currently working at [Handytec](https://www.handytec.mobi) 🍲🥡
+
+I have a passion for clean code, Javascript, PHP and Python
+
+[LinkedIn 💼](https://www.linkedin.com/in/stalinmazaepn18)
+
+[Twitter 🐦](https://twitter.com/stalinct97)
+
+[Website 🌍](https://www.handytec.mobi/)
+
+[Email 📬](mailto:stalin.maza@handytec.mobi)
+
 <!--
 **stalinmazac/stalinmazac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
