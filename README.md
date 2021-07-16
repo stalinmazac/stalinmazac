@@ -14,7 +14,7 @@ I have a passion for clean code, Javascript, PHP and Python
 
 ## My Github Stats
 
-[![Stalin Maza GitHub stats](https://github-readme-stats.vercel.app/api?username=stalinmazac)](https://github.com/anuraghazra/github-readme-stats)
+[![Stalin Maza GitHub stats](https://github-readme-stats.vercel.app/api?username=stalinmazac&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **stalinmazac/stalinmazac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
